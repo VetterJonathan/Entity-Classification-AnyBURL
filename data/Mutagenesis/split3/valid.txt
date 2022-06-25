@@ -1,0 +1,16 @@
+D163 hasType Mutagenic_yes
+D145 hasType Mutagenic_yes
+E19 hasType Mutagenic_no
+D69 hasType Mutagenic_yes
+D80 hasType Mutagenic_yes
+D190 hasType Mutagenic_yes
+E22 hasType Mutagenic_no
+D20 hasType Mutagenic_yes
+D21 hasType Mutagenic_yes
+D8 hasType Mutagenic_yes
+D177 hasType Mutagenic_yes
+D129 hasType Mutagenic_no
+D15 hasType Mutagenic_yes
+E18 hasType Mutagenic_no
+D171 hasType Mutagenic_yes
+D48 hasType Mutagenic_yes

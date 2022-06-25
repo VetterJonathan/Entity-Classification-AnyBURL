@@ -1,0 +1,17 @@
+F3 hasType Mutagenic_yes
+D47 hasType Mutagenic_yes
+E22 hasType Mutagenic_no
+D107 hasType Mutagenic_yes
+E25 hasType Mutagenic_no
+D105 hasType Mutagenic_yes
+D121 hasType Mutagenic_yes
+D128 hasType Mutagenic_yes
+D70 hasType Mutagenic_no
+D108 hasType Mutagenic_yes
+D192 hasType Mutagenic_no
+D160 hasType Mutagenic_no
+D141 hasType Mutagenic_no
+D151 hasType Mutagenic_yes
+D5 hasType Mutagenic_no
+D59 hasType Mutagenic_yes
+D184 hasType Mutagenic_yes
