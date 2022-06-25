@@ -1,0 +1,1139 @@
+M_ID_469 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_469 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_323 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_323 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_169 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_169 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_104 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_104 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_297 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_297 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_132 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_132 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_451 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_451 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_415 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_415 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_307 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_307 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_153 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_153 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_200 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_200 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_404 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_404 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_292 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_292 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_480 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_480 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.48484848484848486 [2](1) -> { TYPE_B } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+
+M_ID_242 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_242 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_313 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_313 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_208 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_208 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_101 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_101 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_18 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_18 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_240 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_240 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_23 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_23 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.48484848484848486 [2](1) -> { TYPE_B } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+
+M_ID_430 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_430 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_12 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_12 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_119 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_119 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_8 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_8 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_150 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_150 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.48484848484848486 [2](1) -> { TYPE_B } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+
+M_ID_43 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_43 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_52 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_52 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_427 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_427 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_381 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_381 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_263 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_263 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_183 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_183 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_227 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_227 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_65 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_65 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_110 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_110 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_93 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_93 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_4 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_4 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_433 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_433 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_55 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_55 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_164 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_164 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_303 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_303 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_341 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_341 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_41 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_41 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_447 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_447 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_190 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_190 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_5 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_5 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_58 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_58 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_360 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_360 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_391 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_391 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_465 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_465 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_138 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_138 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_449 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_449 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_139 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_139 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_308 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_308 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_461 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_461 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_267 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_267 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_353 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_353 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_419 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_419 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_390 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_390 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_464 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_464 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_291 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_291 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_345 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_345 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_122 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_122 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_495 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_495 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_370 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_370 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_196 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_196 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_300 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_300 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_460 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_460 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_176 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_176 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.48484848484848486 [2](1) -> { TYPE_B } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+
+M_ID_88 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_88 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_275 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_275 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_498 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_498 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_37 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_37 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_384 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_384 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_326 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_326 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_223 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_223 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_322 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_322 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_181 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_181 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.48484848484848486 [2](1) -> { TYPE_B } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+
+M_ID_455 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_455 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_123 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_123 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5789473684210527 [2](1) -> { TYPE_C } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+
+M_ID_7 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_7 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_51 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_51 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_35 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_35 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_248 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_248 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_491 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_491 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_349 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_349 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_399 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_399 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_84 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_84 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_316 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_316 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_325 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_325 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_473 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_473 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_438 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_438 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.4876325088339223 [2](1) -> { TYPE_C } with explanation: 278	138	0.49640287769784175	hasType(X,TYPE_C) <= Age(X,AGE_5)
+
+M_ID_466 hasType TYPE_C
+Heads:
+X 0.7948717948717948 [1](1) -> { M_ID_466 } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7948717948717948 [1](1) -> { TYPE_C } with explanation: 112	93	0.8303571428571429	hasType(X,TYPE_C) <= B_rel11(B_ID_5,X)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_64 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_64 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_82 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_82 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5789473684210527 [2](1) -> { TYPE_C } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+
+M_ID_105 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_105 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_188 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_188 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.43333333333333335 [2](1) -> { TYPE_C } with explanation: 355	156	0.4394366197183099	hasType(X,TYPE_C) <= Sex(X,SEX_M)
+
+M_ID_285 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_285 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
+M_ID_70 hasType TYPE_B
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_70 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.48484848484848486 [11](10) -> { M_ID_23 M_ID_150 } with explanation: 28	16	0.5714285714285714	hasType(X,TYPE_B) <= Age(X,AGE_1)
+   O 0.36033519553072624 [8](7) -> { M_ID_176 M_ID_480 M_ID_181 } with explanation: 353	129	0.3654390934844193	hasType(X,TYPE_B) <= Sex(X,SEX_M)
+      O 0.037500000000000006 [5](4) -> { M_ID_474 M_ID_482 M_ID_172 M_ID_173 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+   X 0.037500000000000006 [9](1) -> { M_ID_20 } with explanation: 347	132	0.3804034582132565	hasType(X,TYPE_B) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_B } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.5133333333333333 [2](1) -> { TYPE_C } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+
+M_ID_492 hasType TYPE_C
+Heads:
+X 0.7894736842105263 [1](1) -> { M_ID_492 } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+O 0.5789473684210527 [18](17) -> { M_ID_448 M_ID_411 M_ID_410 M_ID_330 M_ID_320 M_ID_342 M_ID_375 M_ID_331 M_ID_393 } with explanation: 71	44	0.6197183098591549	hasType(X,TYPE_C) <= Age(X,AGE_6)
+   O 0.5133333333333333 [9](8) -> { M_ID_123 M_ID_82 } with explanation: 145	77	0.5310344827586206	hasType(X,TYPE_C) <= Sex(X,SEX_F)
+      O 0.0598360655737705 [7](6) -> { M_ID_107 M_ID_86 M_ID_106 M_ID_99 M_ID_79 M_ID_83 } with explanation: 361	219	0.6066481994459834	hasType(X,TYPE_C) <= B_rel12(A,X)
+
+Tails:
+X 0.7894736842105263 [1](1) -> { TYPE_C } with explanation: 394	315	0.799492385786802	hasType(X,Y) <= B_rel11(A,X), B_rel11(A,B), hasType(B,Y)
+X 0.42702702702702705 [2](1) -> { TYPE_B } with explanation: 920	395	0.42934782608695654	hasType(X,Y) <= Sex(X,A), Sex(B,A), hasType(B,Y)
+
