@@ -1,0 +1,12 @@
+Entity Class:	Type1
+Precision:	1.0
+Recall:		0.35294117647058826
+F1-score:	0.5217391304347826
+
+Entity Class:	Type2
+Precision:	0.65625
+Recall:		1.0
+F1-score:	0.7924528301886793
+
+-------------------------------------
+Weighted-F1:	0.6713440697724624

@@ -1,0 +1,21 @@
+Results for: rule-10
+Number of Predictions: 574
+Number of correct Predictions: 361
+Accuracy: 0.6289198606271778
+Average Position of correct Answer: 2.0958188153310107
+Average Confidence of correct Answer: 0.00694124248473394
+
+Results for: rule-50
+Number of Predictions: 574
+Number of correct Predictions: 360
+Accuracy: 0.627177700348432
+Average Position of correct Answer: 2.0958188153310107
+Average Confidence of correct Answer: 0.006941247238998655
+
+Results for: rule-100
+Number of Predictions: 574
+Number of correct Predictions: 358
+Accuracy: 0.6236933797909407
+Average Position of correct Answer: 2.097560975609756
+Average Confidence of correct Answer: 0.007646798046763406
+

@@ -1,0 +1,575 @@
+/m/05br10 hasType Type2
+Heads:
+X 0.6190476190476191 [1](1) -> { /m/05br10 } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+O 0.6176470588235294 [10](9) -> { /m/01t07j /m/026dx /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [3](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+
+Tails:
+X 0.6190476190476191 [1](1) -> { Type2 } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0151zx hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+
+/m/027_sn hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+
+/m/0hnlx hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+
+/m/01mxnvc hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type2 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.043795620437956206 [1](1) -> { Type1 } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+
+/m/03j2gxx hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+
+/m/0184dt hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.05217391304347826 [1](1) -> { Type2 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+
+/m/02fn5 hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/021mlp hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+
+/m/012vct hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](2) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+      X 0.0020558002936857563 [8](1) -> { /m/012vct } with explanation: 676	14	0.020710059171597635	hasType(X,Type2) <= /people/cause_of_death/people(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0hsn_ hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.016891891891891893 [1](1) -> { Type2 } with explanation: 1475	25	0.01694915254237288	hasType(X,Type2) <= /people/person/nationality(X,/m/09c7w0)
+
+/m/02fn5 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type2 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0f3zf_ hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/07xr3w hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](4) -> { /m/07xr3w /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.007389162561576354 [8](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/06r_by hasType Type2
+Heads:
+X 0.6190476190476191 [1](1) -> { /m/06r_by } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+O 0.6176470588235294 [10](9) -> { /m/01t07j /m/026dx /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [3](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+
+Tails:
+X 0.6190476190476191 [1](1) -> { Type2 } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/01fxck hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/06p0s1 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/06kkgw hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](4) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.0020558002936857563 [3](1) -> { /m/06kkgw } with explanation: 676	14	0.020710059171597635	hasType(X,Type2) <= /people/cause_of_death/people(A,X)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.007389162561576354 [8](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/05_2h8 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](4) -> { /m/087yty /m/05_2h8 } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.007389162561576354 [8](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/071jrc hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/069_0y hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](3) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+      X 0.0072992700729927005 [5](1) -> { /m/069_0y } with explanation: 269	20	0.07434944237918216	hasType(X,Type2) <= /film/director/film(X,A)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.007389162561576354 [8](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/03hmr_ hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/08433 hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/02lxj_ hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.016891891891891893 [1](1) -> { Type2 } with explanation: 1475	25	0.01694915254237288	hasType(X,Type2) <= /people/person/nationality(X,/m/09c7w0)
+
+/m/01g4bk hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/045zr hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/01csvq hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/04dz_y7 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](2) -> { /m/04dz_y7 } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+      X 0.05217391304347826 [6](1) -> { /m/0693l } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+   X 0.007389162561576354 [8](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+   X 0.00424929178470255 [9](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/02gn9g hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.020948180815876516 [1](1) -> { Type2 } with explanation: 902	19	0.02106430155210643	hasType(X,Type2) <= /people/person/profession(X,/m/0dxtg)
+
+/m/0kc6 hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/045zr hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type2 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0kc6 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+
+/m/01w02sy hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type2 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.043795620437956206 [1](1) -> { Type1 } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+
+/m/026dx hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.6176470588235294 [1](1) -> { Type2 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0flw6 hasType Type1
+Heads:
+O 0.11827956989247312 [12](12) -> { /m/03n0pv /m/0146pg /m/02qgyv } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   O 0.043795620437956206 [5](5) -> { /m/0fq117k /m/03bnv } with explanation: 132	6	0.045454545454545456	hasType(X,Type1) <= /music/group_member/membership./music/group_membership/role(X,/m/0342h)
+      X 0.028985507246376812 [1](1) -> { /m/02qwg } with explanation: 133	4	0.03007518796992481	hasType(X,Type1) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/054ks3)
+      X 0.017045454545454544 [2](1) -> { /m/0l12d } with explanation: 699	12	0.017167381974248927	hasType(X,Type1) <= /people/person/profession(X,/m/02jknp)
+      X 0.015 [3](1) -> { /m/01wwvc5 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+   O 0.015 [8](3) -> { /m/012x4t /m/0127s7 } with explanation: 195	3	0.015384615384615385	hasType(X,Type1) <= /music/genre/artists(/m/06j6l,X)
+      X 0.009090909090909092 [6](1) -> { /m/01kx_81 } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+   X 0.009090909090909092 [9](1) -> { /m/0dw4g } with explanation: 127	12	0.09448818897637795	hasType(X,Type1) <= /influence/influence_node/peers./influence/peer_relationship/peers(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/08mhyd hasType Type2
+Heads:
+X 0.6190476190476191 [1](1) -> { /m/08mhyd } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+O 0.6176470588235294 [10](9) -> { /m/01t07j /m/026dx /m/02r5w9 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [4](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [3](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [6](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [5](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [7](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+
+Tails:
+X 0.6190476190476191 [1](1) -> { Type2 } with explanation: 16	13	0.8125	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/02x258x)
+X 0.09780907668231612 [2](1) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/0flw6 hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [1](1) -> { Type2 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+
+/m/02t__l hasType Type2
+Heads:
+O 0.6176470588235294 [10](10) -> { /m/01xv77 } with explanation: 97	63	0.6494845360824743	hasType(X,Type2) <= /people/person/profession(X,/m/0dgd_)
+   O 0.5757575757575758 [3](3) -> { /m/087yty } with explanation: 28	19	0.6785714285714286	hasType(X,Type2) <= /award/award_category/winners./award/award_honor/award_winner(/m/0gr0m,X)
+      O 0.11827956989247312 [2](2) -> { /m/06hzsx /m/06g60w } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+   X 0.11827956989247312 [5](2) -> { /m/087v17 } with explanation: 88	11	0.125	hasType(X,Y) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,X), hasType(A,Y)
+      X 0.09780907668231612 [4](1) -> { /m/01vrnsk } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.06911764705882353 [6](1) -> { /m/0693l } with explanation: 63	47	0.746031746031746	hasType(X,Type2) <= /film/film/cinematography(A,X)
+   X 0.05217391304347826 [9](3) -> { /m/02r5w9 } with explanation: 110	6	0.05454545454545454	hasType(X,Type2) <= /award/award_nominee/award_nominations./award/award_nomination/award(X,/m/019f4v)
+      X 0.007389162561576354 [7](1) -> { /m/01t07j } with explanation: 401	3	0.007481296758104738	hasType(X,Type2) <= /people/person/religion(X,/m/0c8wxp)
+      X 0.00424929178470255 [8](1) -> { /m/026dx } with explanation: 348	15	0.04310344827586207	hasType(X,Type2) <= /film/film/produced_by(A,X)
+
+Tails:
+X 0.09780907668231612 [2](2) -> { Type1 } with explanation: 1273	125	0.09819324430479183	hasType(X,Y) <= /people/person/profession(X,A), /people/person/profession(B,A), hasType(B,Y)
+   X 0.0188556566970091 [1](1) -> { Type2 } with explanation: 1533	29	0.018917155903457272	hasType(X,Type2) <= /people/person/gender(X,/m/05zppz)
+

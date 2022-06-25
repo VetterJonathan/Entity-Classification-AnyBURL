@@ -1,0 +1,644 @@
+D2 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+E11 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D17 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D141 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D60 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D182 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D174 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+E4 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D104 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D73 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+E18 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D99 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D63 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D151 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D124 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D5 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D77 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D171 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+E17 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D118 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D18 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D10 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D40 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D93 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D78 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D44 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D83 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D189 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D34 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D144 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D19 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D126 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D48 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D87 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D59 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D158 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D65 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D103 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+E8 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D39 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D172 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D197 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D184 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D3 hasType Mutagenic_no
+Heads:
+O 0.7142857142857143 [5](5) -> { D105 } with explanation: 30	25	0.8333333333333334	hasType(X,Mutagenic_no) <= Logp(X,LogpRange3)
+   X 0.65 [1](1) -> { D178 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [4](3) -> { D45 D169 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+      X 0.2708333333333333 [2](1) -> { D81 } with explanation: 43	13	0.3023255813953488	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange6)
+O 0.65 [13](8) -> { D112 D153 D92 D1 } with explanation: 35	26	0.7428571428571429	hasType(X,Mutagenic_no) <= Lumo(X,LumoRange8)
+   O 0.6136363636363636 [8](3) -> { D146 D145 D115 } with explanation: 83	54	0.6506024096385542	hasType(X,Mutagenic_no) <= Ind1(X,Ind1False)
+   X 0.2727272727272727 [9](1) -> { D35 } with explanation: 28	9	0.32142857142857145	hasType(X,Mutagenic_no) <= Logp(X,LogpRange5)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D102 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
+D61 hasType Mutagenic_yes
+Heads:
+O 0.8048780487804879 [3](3) -> { D185 } with explanation: 36	33	0.9166666666666666	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange5)
+   O 0.5757575757575758 [2](2) -> { D110 D119 } with explanation: 28	19	0.6785714285714286	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange5)
+O 0.8018867924528302 [11](8) -> { E22 E23 } with explanation: 101	85	0.8415841584158416	hasType(X,Mutagenic_yes) <= Ind1(X,Ind1True)
+   O 0.7407407407407407 [5](2) -> { E26 E25 } with explanation: 22	20	0.9090909090909091	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange7)
+   O 0.625 [9](4) -> { E24 } with explanation: 19	15	0.7894736842105263	hasType(X,Mutagenic_yes) <= Logp(X,LogpRange8)
+      X 0.625 [6](1) -> { E15 } with explanation: 43	30	0.6976744186046512	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange6)
+      O 0.5 [8](2) -> { D193 D192 } with explanation: 49	27	0.5510204081632653	hasType(X,Mutagenic_yes) <= Lumo(X,LumoRange7)
+
+Tails:
+X 0.006031746031746031 [1](1) -> { Mutagenic_yes } with explanation: 184	114	0.6195652173913043	hasType(X,Mutagenic_yes) <= 
+X 0.0037037037037037034 [2](1) -> { Mutagenic_no } with explanation: 184	70	0.3804347826086957	hasType(X,Mutagenic_no) <= 
+
