@@ -1,0 +1,45 @@
+Logfile
+~~~~~~~
+
+
+PREDICTION_TYPE = aRx
+PATH_TRAINING = data/Hepatitis/split4/Training_Labels_Data_Definition.txt
+PATH_TEST = data/Hepatitis/split4/Test_Labels.txt
+PATH_VALID = 
+PATH_OUTPUT = predictions/Hepatitis/split4/delta-|default|
+PATH_EXPLANATION = explanations/Hepatitis/explanations-split4.txt
+PATH_RULES = rules/Hepatitis/split4/gamma-|10,50,100|
+PATH_RULES_BASE = 
+TOP_K_OUTPUT = 10
+UNSEEN_NEGATIVE_EXAMPLES = 5
+UNSEEN_NEGATIVE_EXAMPLES_REFINE = 5
+THRESHOLD_CONFIDENCE = 1.0E-4
+DISCRIMINATION_BOUND = 1000
+TRIAL_SIZE = 1000000
+WORKER_THREADS = 7
+UNSEEN_NEGATIVE_EXAMPLES_ATYPED = [I@67117f44
+TYPE_SPLIT_ANALYSIS = false
+BEAM_SAMPLING_MAX_BODY_GROUNDINGS = 1000
+BEAM_SAMPLING_MAX_BODY_GROUNDING_ATTEMPTS = 100000
+BEAM_SAMPLING_MAX_REPETITIONS = 5
+READ_CYCLIC_RULES = 1
+READ_ACYCLIC1_RULES = 1
+READ_ACYCLIC2_RULES = 1
+READ_ZERO_RULES = 1
+READ_THRESHOLD_CONFIDENCE = 1.0E-4
+READ_THRESHOLD_CORRECT_PREDICTIONS = 2
+READ_THRESHOLD_MAX_RULE_LENGTH = 10.0
+AGGREGATION_TYPE = maxplus-explanations
+
+rules:   rules/Hepatitis/split4/gamma-10
+output: predictions/Hepatitis/split4/delta-10
+finished in 1s.
+
+rules:   rules/Hepatitis/split4/gamma-50
+output: predictions/Hepatitis/split4/delta-50
+finished in 1s.
+
+rules:   rules/Hepatitis/split4/gamma-100
+output: predictions/Hepatitis/split4/delta-100
+finished in 0s.
+

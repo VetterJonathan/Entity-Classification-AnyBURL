@@ -1,0 +1,45 @@
+Logfile
+~~~~~~~
+
+
+PREDICTION_TYPE = aRx
+PATH_TRAINING = data/ESWC_FB15K-237/entity_classification_1/train.txt
+PATH_TEST = data/ESWC_FB15K-237/entity_classification_1/test.txt
+PATH_VALID = 
+PATH_OUTPUT = predictions/ESWC_FB15K-237/entity_classification_1/alpha-|default|
+PATH_EXPLANATION = explanations/ESWC_FB15K-237/explanations-split1.txt
+PATH_RULES = rules/ESWC_FB15K-237/entity_classification_1/alpha-|10,50,100|
+PATH_RULES_BASE = 
+TOP_K_OUTPUT = 10
+UNSEEN_NEGATIVE_EXAMPLES = 5
+UNSEEN_NEGATIVE_EXAMPLES_REFINE = 5
+THRESHOLD_CONFIDENCE = 1.0E-4
+DISCRIMINATION_BOUND = 1000
+TRIAL_SIZE = 1000000
+WORKER_THREADS = 7
+UNSEEN_NEGATIVE_EXAMPLES_ATYPED = [I@67117f44
+TYPE_SPLIT_ANALYSIS = false
+BEAM_SAMPLING_MAX_BODY_GROUNDINGS = 1000
+BEAM_SAMPLING_MAX_BODY_GROUNDING_ATTEMPTS = 100000
+BEAM_SAMPLING_MAX_REPETITIONS = 5
+READ_CYCLIC_RULES = 1
+READ_ACYCLIC1_RULES = 1
+READ_ACYCLIC2_RULES = 1
+READ_ZERO_RULES = 1
+READ_THRESHOLD_CONFIDENCE = 1.0E-4
+READ_THRESHOLD_CORRECT_PREDICTIONS = 2
+READ_THRESHOLD_MAX_RULE_LENGTH = 10.0
+AGGREGATION_TYPE = maxplus-explanations
+
+rules:   rules/ESWC_FB15K-237/entity_classification_1/alpha-10
+output: predictions/ESWC_FB15K-237/entity_classification_1/alpha-10
+finished in 28s.
+
+rules:   rules/ESWC_FB15K-237/entity_classification_1/alpha-50
+output: predictions/ESWC_FB15K-237/entity_classification_1/alpha-50
+finished in 39s.
+
+rules:   rules/ESWC_FB15K-237/entity_classification_1/alpha-100
+output: predictions/ESWC_FB15K-237/entity_classification_1/alpha-100
+finished in 67s.
+
