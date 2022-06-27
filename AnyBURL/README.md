@@ -1,6 +1,7 @@
 # AnyBURL
 This folder contains all the files that are needed or created in connection with experiments with AnyBURL.
 Generally speaking, if the folder structure talks about "splits", in this context it means the subdivision into the different sets that are used for cross validation.
+We conducted all our experiments on a machine with 4 cores (each 1800MHz) and 8 GB RAM
 
 ## data
 This folder contains the datasets on which the experiments are based. After clicking through the folders to a desired dataset, there are four files in this folder: "test.txt" contains the test set and "training.txt" contains the training set. "valid.txt" contains the validation set, which consists of random 10% of the type assignments from the training set. To use the validation set, there is "train_validation.txt" which contains the training set but without the type assignments that are now in the validation set.
